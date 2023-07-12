@@ -1,0 +1,14 @@
+{
+  "perfil": [
+    {
+      "nombre": "Andres",
+      "email": "christian@alura.com",
+      "id": "48a5e54f-affd-4d95-aadd-0a29fd070094"
+    },
+    {
+      "nombre": "Miriam",
+      "email": "miriam@alura.com",
+      "id": "e3807ae6-66c0-4663-bbe0-32f981965e92"
+    }
+  ]
+}
